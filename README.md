@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-<img src="https://github-readme-stats-git-masterhst-anuraghazra.vercel.app/api?username=shimaamohamed923&show_icons=true&theme=tokyonight" alt="Stats Card" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shimaamohamed923&show_icons=true&theme=tokyonight" alt="Stats Card" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaamohamed923&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
 
