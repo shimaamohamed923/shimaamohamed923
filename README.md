@@ -26,8 +26,8 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=shimaamohamed923&show_icons=true&theme=tokyonight" alt="Stats Card" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaamohamed923&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=shimaamohamed923&show_icons=true&theme=tokyonight" alt="Stats Card" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaamohamed923&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
 
 ---
