@@ -28,10 +28,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight" alt="Stats Card" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+### 📊 GitHub Stats:
+<p align="left">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shimaamohamed923&show_icons=true&theme=tokyonight" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaamohamed923&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shimaamohamed923&layout=compact&theme=tokyonight" alt="Top Langs"/>
+</p>
 
 ---
 ## 🌐 Connect with Me
