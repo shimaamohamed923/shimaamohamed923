@@ -28,14 +28,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shimaamohamed923&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaamohamed923&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shimaamohamed923&theme=radial&hide_border=true" alt="GitHub Streak" />
@@ -54,6 +54,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
----
 
 "Good design is obvious. Great design is transparent." 💻✨
