@@ -56,4 +56,4 @@
 </div>
 ---
 
-> "Good design is obvious. Great design is transparent." 💻✨
+"Good design is obvious. Great design is transparent." 💻✨
