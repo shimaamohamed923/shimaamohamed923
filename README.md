@@ -30,16 +30,8 @@
 ---
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shimaamohamed923&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaamohamed923&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shimaamohamed923&theme=radial&hide_border=true" alt="GitHub Streak" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight" alt="Stats Card" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 
 ---
 ## 🌐 Connect with Me
